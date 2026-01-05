@@ -1,0 +1,5 @@
+{
+  "name": "Daily Expense Card",
+  "description": "A premium, glassmorphic expense tracker with real-time updates, local storage persistence, and a mobile-first design.",
+  "requestFramePermissions": []
+}
